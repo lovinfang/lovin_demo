@@ -57,6 +57,14 @@ public class StreamDemo {
                                           new Person("fang",true),
                                           new Person("ya",false),
                                           new Person("wen",true));
+
+        boolean has = list.stream().anyMatch(person -> person.getName().equals("ya"));
+        if(has){
+            System.out.println("list has person names ya");
+        }
+
+
+
         //筛选
         List<Person> stream = list.stream().filter(Person::isStudent).collect(Collectors.toList());
         System.out.println(stream);
