@@ -3,6 +3,8 @@
  */
 package com.lovin.json.model;
 
+import com.alibaba.fastjson.JSON;
+import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
 
 import java.util.HashMap;
@@ -39,5 +41,19 @@ public class Demo {
         Object o3 = JSONObject.toJSON(map3);
         System.out.println(o3.toString());
 
+        String jsonStr = "{\"chWhiteList\":\"11111111\",\"pageName\":\"www.pageName.com\",\"address\":\"http://www.alipay.com\"}";
+        Map<String,String> map = (Map<String, String>) JSON.parse(jsonStr);
+        map.forEach((key,value) -> {
+            System.out.println(key+":"+value);
+        });
+        JSONObject jsonObject = new JSONObject();
+        jsonObject.put("name","value");
+        System.out.println(jsonObject.toJSONString());
+
+        System.out.println("-------------------");
+        Map<String,String> ddd = new HashMap<>();
+        if (ddd.isEmpty()){
+            System.out.println("empty");
+        }
     }
 }
