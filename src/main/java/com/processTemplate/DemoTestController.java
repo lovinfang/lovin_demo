@@ -6,6 +6,7 @@ package com.processTemplate;
 import com.processTemplate.biz.impl.DemoManageImpl;
 import com.processTemplate.model.Result;
 import com.processTemplate.request.ModelAddRequest;
+import com.processTemplate.util.LoggerUtil;
 import com.processTemplate.util.ResultUtil;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -26,11 +27,10 @@ public class DemoTestController {
         request.setType("type");
         Result<Boolean> result = demoManage.modeAdd(request);
         if (result.isSuccess()){
-            System.out.println("业务逻辑执行成功");
-            LOGGER.info("业务逻辑执行成功");
+            LoggerUtil.info(LOGGER,"业务逻辑执行成功");
         }else{
             System.out.println(ResultUtil.fetchCurrentErrorMessage(result));
-            LOGGER.error(ResultUtil.fetchCurrentErrorMessage(result));
+            LoggerUtil.error(LOGGER,ResultUtil.fetchCurrentErrorMessage(result));
         }
     }
 
