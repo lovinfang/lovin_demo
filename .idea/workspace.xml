@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97f26c08-1602-4179-be13-458e7653c802" name="Default" comment="提交代码">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/enumeration/TestEnumeration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/filterChain/demo1/Filter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/filterChain/demo1/Request.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/filterChain/demo1/Response.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/filterchain/chainofresponse/LimitSupport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/filterchain/chainofresponse/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/filterchain/chainofresponse/NoSupport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/filterchain/chainofresponse/OddSupport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/filterchain/chainofresponse/SpecialSupport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/filterchain/chainofresponse/Support.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/filterchain/chainofresponse/Trouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/filterchain/demo1/DefaultFilterChain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/filterchain/demo1/DefaultFilterChainFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/filterchain/demo1/FilterChain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/filterchain/demo1/FilterChainFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/filterchain/demo1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/filterchain/demo1/ParamRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/filterchain/demo1/ParamResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/filterchain/demo1/PermissionValidateFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/filterchain/demo1/ProcessFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/filterchain/demo1/RequestValidateFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/log4j2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/processTemplate/DemoTestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/processTemplate/DemoTestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/processTemplate/DemoTestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/processTemplate/DemoTestController.class" afterDir="false" />
-    </list>
+    <list default="true" id="97f26c08-1602-4179-be13-458e7653c802" name="Default" comment="提交代码" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path=".idea/vcs.xml" />
@@ -72,15 +45,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/filterchain/demo1/ProcessFilter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="26" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="365">
@@ -89,13 +53,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/filterchain/demo1/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
+            <state relative-caret-position="495">
               <caret line="30" column="44" lean-forward="true" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sensitive/SensitiveDataUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#21994#21995#0" expanded="true" />
+                <element signature="e#22025#22026#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -184,7 +162,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/processTemplate/EventCodeEnum.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/processTemplate/ErrorLevels.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/processTemplate/ErrorTypes.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/processTemplate/ErrorCodeEnum.java" />
@@ -235,6 +212,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/filterchain/demo1/ParamRequest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/filterchain/demo1/ParamResponse.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/filterchain/demo1/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/sensitive/SensitiveDataUtil.java" />
       </list>
     </option>
   </component>
@@ -312,35 +290,6 @@
               <item name="lovin_demo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="filterchain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lovin_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lovin_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="filterchain" type="462c0819:PsiDirectoryNode" />
-              <item name="chainofresponse" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lovin_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lovin_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="filterchain" type="462c0819:PsiDirectoryNode" />
-              <item name="demo1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lovin_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lovin_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -371,7 +320,7 @@
     <property name="LINKE_TAB_PROPERTY_KEY" value="0" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553493684785" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553495169258" />
     <property name="last_opened_file_path" value="D:/bkinstportal" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -537,7 +486,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.20788912" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.20788912" />
       <window_info id="Structure" order="1" sideWeight="0.50080776" side_tool="true" weight="0.20788912" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -547,7 +496,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34236187" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34236187" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.35427952" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -659,13 +608,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/processTemplate/template/ProcessCallback.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/processTemplate/util/CommonError.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -1123,10 +1065,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/filterchain/demo1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
+        <state relative-caret-position="495">
           <caret line="30" column="44" lean-forward="true" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sensitive/SensitiveDataUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#21994#21995#0" expanded="true" />
+            <element signature="e#22025#22026#0" expanded="true" />
           </folding>
         </state>
       </provider>
