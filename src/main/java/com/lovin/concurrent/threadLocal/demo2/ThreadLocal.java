@@ -11,8 +11,7 @@ import java.util.Map;
  * https://www.ibm.com/developerworks/cn/java/j-threads/index3.html
  *
  *  ThreadLocal 的糟糕实现
- * @author wb-fyw404615
- * @version $Id: ThreadLocal.java, v 0.1 2019年03月20日 19:15 wb-fyw404615 Exp $
+ * @version $Id: ThreadLocal.java, v 0.1 2019年03月20日 19:15 lovin Exp $
  */
 public class ThreadLocal {
 

@@ -12,8 +12,8 @@ import java.lang.annotation.Target;
 
 /**
  *
- * @author wb-fyw404615
- * @version $Id: ParamCondition.java, v 0.1 2019年03月27日 11:17 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: ParamCondition.java, v 0.1 2019年03月27日 11:17 lovin Exp $
  */
 @Target({ElementType.FIELD})
 @Retention(RetentionPolicy.RUNTIME)

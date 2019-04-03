@@ -11,9 +11,7 @@ import java.util.ArrayList;
 import java.util.Collection;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: Annotations.java, v 0.1 2019年02月14日 19:42 wb-fyw404615 Exp $
+ * @version $Id: Annotations.java, v 0.1 2019年02月14日 19:42 lovin Exp $
  */
 public class Annotations {
 

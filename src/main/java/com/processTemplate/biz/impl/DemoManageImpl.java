@@ -14,8 +14,8 @@ import org.slf4j.LoggerFactory;
 
 /**
  *
- * @author wb-fyw404615
- * @version $Id: DemoManageImpl.java, v 0.1 2019年03月22日 14:24 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: DemoManageImpl.java, v 0.1 2019年03月22日 14:24 lovin Exp $
  */
 public class DemoManageImpl implements DemoManage {
 

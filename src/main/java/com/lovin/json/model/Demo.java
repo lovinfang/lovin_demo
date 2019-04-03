@@ -11,9 +11,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: Demo.java, v 0.1 2019年03月01日 9:35 wb-fyw404615 Exp $
+ * @version $Id: Demo.java, v 0.1 2019年03月01日 9:35 lovin Exp $
  */
 public class Demo {
 

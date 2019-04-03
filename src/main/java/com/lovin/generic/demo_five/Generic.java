@@ -4,9 +4,7 @@
 package com.lovin.generic.demo_five;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: Generic.java, v 0.1 2019年03月19日 15:19 wb-fyw404615 Exp $
+ * @version $Id: Generic.java, v 0.1 2019年03月19日 15:19 lovin Exp $
  */
 public class Generic<T extends Number> {
 

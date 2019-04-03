@@ -7,8 +7,8 @@ import com.genericAndAnnotation.annotation.ParamCondition;
 
 /**
  *
- * @author wb-fyw404615
- * @version $Id: QrCodeConfigParamRequest.java, v 0.1 2019年03月27日 16:39 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: QrCodeConfigParamRequest.java, v 0.1 2019年03月27日 16:39 lovin Exp $
  */
 public class QrCodeConfigParamRequest extends ParamQueryRequest<QrCodeConfigParam> {
 

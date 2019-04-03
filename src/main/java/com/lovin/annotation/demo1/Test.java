@@ -9,9 +9,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: Test.java, v 0.1 2019年02月14日 10:43 wb-fyw404615 Exp $
+ * @version $Id: Test.java, v 0.1 2019年02月14日 10:43 lovin Exp $
  */
 public class Test {
 

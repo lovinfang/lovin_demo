@@ -10,8 +10,8 @@ import java.io.Serializable;
 /**
  * 泛型Result结果类
  *
- * @author wb-fyw404615
- * @version $Id: Result.java, v 0.1 2019年03月21日 15:26 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: Result.java, v 0.1 2019年03月21日 15:26 lovin Exp $
  */
 public class Result<T> implements Serializable {
 

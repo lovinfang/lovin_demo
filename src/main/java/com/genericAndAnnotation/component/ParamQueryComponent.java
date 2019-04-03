@@ -10,8 +10,8 @@ import java.util.List;
 
 /**
  *
- * @author wb-fyw404615
- * @version $Id: ParamQueryComponent.java, v 0.1 2019年03月27日 10:56 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: ParamQueryComponent.java, v 0.1 2019年03月27日 10:56 lovin Exp $
  */
 public interface ParamQueryComponent {
 

@@ -7,8 +7,8 @@ import org.apache.commons.lang3.StringUtils;
 
 /**
  *
- * @author wb-fyw404615
- * @version $Id: YesNoEnum.java, v 0.1 2019年03月27日 16:18 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: YesNoEnum.java, v 0.1 2019年03月27日 16:18 lovin Exp $
  */
 public enum YesNoEnum {
     /**

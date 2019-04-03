@@ -4,9 +4,7 @@
 package com.lovin.annotation.demo4;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: Filter.java, v 0.1 2019年02月14日 18:41 wb-fyw404615 Exp $
+ * @version $Id: Filter.java, v 0.1 2019年02月14日 18:41 lovin Exp $
  */
 @Table("user")
 public class Filter {

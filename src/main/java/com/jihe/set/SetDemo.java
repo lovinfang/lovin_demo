@@ -10,8 +10,8 @@ import java.util.TreeSet;
 
 /**
  *
- * @author wb-fyw404615
- * @version $Id: setDemo.java, v 0.1 2019年04月02日 16:58 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: setDemo.java, v 0.1 2019年04月02日 16:58 lovin Exp $
  */
 public class SetDemo {
 

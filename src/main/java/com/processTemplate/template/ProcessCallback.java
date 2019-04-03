@@ -5,8 +5,8 @@ package com.processTemplate.template;
 
 /**
  *
- * @author wb-fyw404615
- * @version $Id: ProcessCallback.java, v 0.1 2019年03月21日 16:25 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: ProcessCallback.java, v 0.1 2019年03月21日 16:25 lovin Exp $
  */
 public interface ProcessCallback<T> {
 

@@ -4,9 +4,7 @@
 package com.lovin.java8.inference;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: TypeInference.java, v 0.1 2019年02月14日 19:39 wb-fyw404615 Exp $
+ * @version $Id: TypeInference.java, v 0.1 2019年02月14日 19:39 lovin Exp $
  */
 public class TypeInference {
 

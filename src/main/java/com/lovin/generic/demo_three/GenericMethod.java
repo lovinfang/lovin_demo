@@ -6,8 +6,8 @@ package com.lovin.generic.demo_three;
 /**
  *
  *  泛型方法
- * @author wb-fyw404615
- * @version $Id: GenericMethod.java, v 0.1 2019年03月19日 14:10 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: GenericMethod.java, v 0.1 2019年03月19日 14:10 lovin Exp $
  */
 public class GenericMethod {
 

@@ -7,9 +7,7 @@ import java.lang.reflect.Field;
 import java.lang.reflect.Method;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: Test.java, v 0.1 2019年02月14日 18:48 wb-fyw404615 Exp $
+ * @version $Id: Test.java, v 0.1 2019年02月14日 18:48 lovin Exp $
  */
 public class Test {
 

@@ -6,8 +6,8 @@ package com.filterchain.chainofresponse;
 /**
  *  一个永远不解决问题的类
  *
- * @author wb-fyw404615
- * @version $Id: NoSupport.java, v 0.1 2019年03月25日 10:37 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: NoSupport.java, v 0.1 2019年03月25日 10:37 lovin Exp $
  */
 public class NoSupport extends Support {
 

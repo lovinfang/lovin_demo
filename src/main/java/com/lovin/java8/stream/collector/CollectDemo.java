@@ -10,9 +10,7 @@ import java.util.stream.Collector;
 import java.util.stream.Collectors;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: CollectDemo.java, v 0.1 2019年02月19日 15:04 wb-fyw404615 Exp $
+ * @version $Id: CollectDemo.java, v 0.1 2019年02月19日 15:04 lovin Exp $
  */
 public class CollectDemo {
 

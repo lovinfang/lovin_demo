@@ -5,8 +5,8 @@ package com.filterchain.chainofresponse;
 
 /**
  *
- * @author wb-fyw404615
- * @version $Id: Support.java, v 0.1 2019年03月25日 10:25 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: Support.java, v 0.1 2019年03月25日 10:25 lovin Exp $
  */
 public abstract class Support {
 

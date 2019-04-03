@@ -4,9 +4,7 @@
 package com.lovin.generic.demo_four;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: GenerateTest.java, v 0.1 2019年03月19日 14:51 wb-fyw404615 Exp $
+ * @version $Id: GenerateTest.java, v 0.1 2019年03月19日 14:51 lovin Exp $
  */
 public class GenerateTest<T> {
     public void show_1(T t){

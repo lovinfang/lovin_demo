@@ -12,8 +12,8 @@ import org.springframework.util.CollectionUtils;
 
 /**
  *
- * @author wb-fyw404615
- * @version $Id: ErrorContextUtil.java, v 0.1 2019年03月22日 9:38 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: ErrorContextUtil.java, v 0.1 2019年03月22日 9:38 lovin Exp $
  */
 public class ErrorContextUtil {
 

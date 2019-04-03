@@ -12,9 +12,7 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: StreamDemo.java, v 0.1 2019年02月18日 16:50 wb-fyw404615 Exp $
+ * @version $Id: StreamDemo.java, v 0.1 2019年02月18日 16:50 lovin Exp $
  */
 public class StreamDemo {
 

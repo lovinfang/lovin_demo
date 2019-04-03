@@ -5,8 +5,8 @@ package com.processTemplate.constant;
 
 /**
  *
- * @author wb-fyw404615
- * @version $Id: ErrorCodeVersion.java, v 0.1 2019年03月22日 11:20 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: ErrorCodeVersion.java, v 0.1 2019年03月22日 11:20 lovin Exp $
  */
 public interface ErrorCodeVersion {
 

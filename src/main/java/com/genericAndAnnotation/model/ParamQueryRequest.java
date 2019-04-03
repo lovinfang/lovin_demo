@@ -5,8 +5,8 @@ package com.genericAndAnnotation.model;
 
 /**
  *
- * @author wb-fyw404615
- * @version $Id: ParamQueryRequest.java, v 0.1 2019年03月27日 10:58 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: ParamQueryRequest.java, v 0.1 2019年03月27日 10:58 lovin Exp $
  */
 public abstract class ParamQueryRequest<T extends ParamModel> {
 

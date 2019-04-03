@@ -11,8 +11,8 @@ import java.util.Map;
 /**
  * 参数记录
  *
- * @author wb-fyw404615
- * @version $Id: ParmRowVO.java, v 0.1 2019年03月27日 12:34 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: ParmRowVO.java, v 0.1 2019年03月27日 12:34 lovin Exp $
  */
 public class ParmRowVO extends ToString implements Cloneable {
 

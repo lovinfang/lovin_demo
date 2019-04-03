@@ -9,9 +9,7 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: GroupDemo.java, v 0.1 2019年02月19日 15:53 wb-fyw404615 Exp $
+ * @version $Id: GroupDemo.java, v 0.1 2019年02月19日 15:53 lovin Exp $
  */
 public class GroupDemo {
 

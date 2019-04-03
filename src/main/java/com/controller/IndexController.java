@@ -7,9 +7,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: IndexController.java, v 0.1 2019年03月05日 11:16 wb-fyw404615 Exp $
+ * @version $Id: IndexController.java, v 0.1 2019年03月05日 11:16 lovin Exp $
  */
 @Controller
 @RequestMapping("/home")

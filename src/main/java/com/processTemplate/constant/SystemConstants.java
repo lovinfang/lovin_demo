@@ -6,8 +6,8 @@ package com.processTemplate.constant;
 /**
  * 常用静态常量
  *
- * @author wb-fyw404615
- * @version $Id: SystemConstants.java, v 0.1 2019年03月22日 11:25 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: SystemConstants.java, v 0.1 2019年03月22日 11:25 lovin Exp $
  */
 public class SystemConstants {
     /**

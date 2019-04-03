@@ -5,8 +5,8 @@ package com.filterchain.demo1;
 
 /**
  *
- * @author wb-fyw404615
- * @version $Id: ParamRequest.java, v 0.1 2019年03月25日 13:56 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: ParamRequest.java, v 0.1 2019年03月25日 13:56 lovin Exp $
  */
 public class ParamRequest implements Request {
 

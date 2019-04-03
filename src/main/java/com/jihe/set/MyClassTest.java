@@ -11,9 +11,7 @@ import java.util.Random;
 import java.util.TreeSet;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: MyClassTest.java, v 0.1 2019年04月02日 17:56 wb-fyw404615 Exp $
+ * @version $Id: MyClassTest.java, v 0.1 2019年04月02日 17:56 lovin Exp $
  */
 public class MyClassTest {
 

@@ -35,8 +35,8 @@ import org.apache.commons.lang3.StringUtils;
  *           <td><b>说明</b></td><td colspan=2>厂商<br>标识</td><td>规<br>范<br>版<br>本</td><td>错<br>误<br>级<br>别</td><td>错<br>误<br>类<br>型</td><td colspan=8>错误场景</td><td colspan=3>错误编<br>码</td>
  *          </tr>
  *      </table>
- * @author wb-fyw404615
- * @version $Id: ErrorCode.java, v 0.1 2019年03月21日 16:09 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: ErrorCode.java, v 0.1 2019年03月21日 16:09 lovin Exp $
  */
 public class ErrorCode {
     /** 序列ID */

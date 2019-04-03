@@ -9,8 +9,8 @@ import com.processTemplate.model.Result;
 
 /**
  *
- * @author wb-fyw404615
- * @version $Id: ResultUtil.java, v 0.1 2019年03月22日 15:15 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: ResultUtil.java, v 0.1 2019年03月22日 15:15 lovin Exp $
  */
 public class ResultUtil {
     /**

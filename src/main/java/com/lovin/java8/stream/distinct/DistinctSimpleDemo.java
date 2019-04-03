@@ -8,9 +8,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: DistinctSimpleDemo.java, v 0.1 2019年02月19日 10:53 wb-fyw404615 Exp $
+ * @version $Id: DistinctSimpleDemo.java, v 0.1 2019年02月19日 10:53 lovin Exp $
  */
 public class DistinctSimpleDemo {
 

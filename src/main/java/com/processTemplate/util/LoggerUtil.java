@@ -9,8 +9,8 @@ import org.slf4j.helpers.MessageFormatter;
 
 /**
  *
- * @author wb-fyw404615
- * @version $Id: LoggerUtil.java, v 0.1 2019年03月21日 16:28 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: LoggerUtil.java, v 0.1 2019年03月21日 16:28 lovin Exp $
  */
 public class LoggerUtil {
     /**

@@ -8,8 +8,8 @@ import java.util.Vector;
 
 /**
  *
- * @author wb-fyw404615
- * @version $Id: TestEnumeration.java, v 0.1 2019年03月25日 9:43 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: TestEnumeration.java, v 0.1 2019年03月25日 9:43 lovin Exp $
  */
 public class TestEnumeration {
 

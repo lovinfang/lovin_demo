@@ -4,9 +4,7 @@
 package com.lovin.java8.stream;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: Person.java, v 0.1 2019年02月18日 17:01 wb-fyw404615 Exp $
+ * @version $Id: Person.java, v 0.1 2019年02月18日 17:01 lovin Exp $
  */
 public class Person {
 

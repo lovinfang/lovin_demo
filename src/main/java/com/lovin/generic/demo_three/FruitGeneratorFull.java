@@ -7,8 +7,8 @@ import java.util.Random;
 
 /**
  *
- * @author wb-fyw404615
- * @version $Id: FruitGeneratorFull.java, v 0.1 2019年03月19日 12:26 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: FruitGeneratorFull.java, v 0.1 2019年03月19日 12:26 lovin Exp $
  */
 public class FruitGeneratorFull implements Generator<String>{
 

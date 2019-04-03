@@ -13,9 +13,7 @@ import java.util.stream.Stream;
 import java.io.File;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: ReadFile.java, v 0.1 2019年02月15日 14:38 wb-fyw404615 Exp $
+ * @version $Id: ReadFile.java, v 0.1 2019年02月15日 14:38 lovin Exp $
  */
 public class ReadFile {
 

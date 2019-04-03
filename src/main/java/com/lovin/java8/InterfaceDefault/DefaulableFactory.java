@@ -6,9 +6,7 @@ package com.lovin.java8.InterfaceDefault;
 import java.util.function.Supplier;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: DefaulableFactory.java, v 0.1 2019年02月13日 19:15 wb-fyw404615 Exp $
+ * @version $Id: DefaulableFactory.java, v 0.1 2019年02月13日 19:15 lovin Exp $
  */
 public interface DefaulableFactory {
 

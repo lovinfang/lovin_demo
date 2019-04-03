@@ -5,8 +5,8 @@ package com.lovin.generic.demo_one;
 
 /**
  *
- * @author wb-fyw404615
- * @version $Id: Cell.java, v 0.1 2019年03月15日 11:28 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: Cell.java, v 0.1 2019年03月15日 11:28 lovin Exp $
  */
 public class Cell<T> {
 

@@ -4,9 +4,7 @@
 package com.jihe.set.pojo;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: Dog.java, v 0.1 2019年04月02日 17:54 wb-fyw404615 Exp $
+ * @version $Id: Dog.java, v 0.1 2019年04月02日 17:54 lovin Exp $
  */
 public class Dog implements Comparable<Dog> {
 

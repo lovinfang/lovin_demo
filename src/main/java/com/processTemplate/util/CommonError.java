@@ -4,8 +4,8 @@
 package com.processTemplate.util;
 
 /**
- * @author wb-fyw404615
- * @version $Id: CommonError.java, v 0.1 2019年03月21日 16:07 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: CommonError.java, v 0.1 2019年03月21日 16:07 lovin Exp $
  */
 public class CommonError {
 

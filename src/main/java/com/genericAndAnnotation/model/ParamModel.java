@@ -6,8 +6,8 @@ package com.genericAndAnnotation.model;
 /**
  * 参数中心查询组件-参数模型
  *
- * @author wb-fyw404615
- * @version $Id: ParamModel.java, v 0.1 2019年03月27日 10:57 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: ParamModel.java, v 0.1 2019年03月27日 10:57 lovin Exp $
  */
 public abstract class ParamModel {
 

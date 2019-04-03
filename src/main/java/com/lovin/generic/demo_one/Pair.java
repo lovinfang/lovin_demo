@@ -4,8 +4,8 @@
 package com.lovin.generic.demo_one;
 
 /**
- * @author wb-fyw404615
- * @version $Id: Pair.java, v 0.1 2019年03月15日 11:23 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: Pair.java, v 0.1 2019年03月15日 11:23 lovin Exp $
  */
 public class Pair<T, U> {
 

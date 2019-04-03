@@ -6,9 +6,7 @@ package com.lovin.java8.option;
 import java.util.Optional;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: OptionDemo.java, v 0.1 2019年02月15日 10:00 wb-fyw404615 Exp $
+ * @version $Id: OptionDemo.java, v 0.1 2019年02月15日 10:00 lovin Exp $
  */
 public class OptionDemo {
 

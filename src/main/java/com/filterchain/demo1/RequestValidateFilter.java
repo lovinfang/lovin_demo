@@ -5,8 +5,8 @@ package com.filterchain.demo1;
 
 /**
  *
- * @author wb-fyw404615
- * @version $Id: RequestValidateFilter.java, v 0.1 2019年03月25日 11:23 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: RequestValidateFilter.java, v 0.1 2019年03月25日 11:23 lovin Exp $
  */
 public class RequestValidateFilter implements Filter<Request,Response> {
     @Override

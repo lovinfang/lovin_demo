@@ -8,8 +8,8 @@ import java.util.List;
 
 /**
  *
- * @author wb-fyw404615
- * @version $Id: Main.java, v 0.1 2019年03月25日 11:36 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: Main.java, v 0.1 2019年03月25日 11:36 lovin Exp $
  */
 public class Main {
 

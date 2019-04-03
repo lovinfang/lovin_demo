@@ -8,8 +8,8 @@ import java.util.List;
 /**
  * 责任链工厂实现
  *
- * @author wb-fyw404615
- * @version $Id: DefaultFilterChainFactory.java, v 0.1 2019年03月25日 11:20 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: DefaultFilterChainFactory.java, v 0.1 2019年03月25日 11:20 lovin Exp $
  */
 public class DefaultFilterChainFactory implements FilterChainFactory{
 

@@ -8,9 +8,7 @@ import java.util.List;
 import java.util.function.Supplier;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: Car.java, v 0.1 2019年02月13日 19:28 wb-fyw404615 Exp $
+ * @version $Id: Car.java, v 0.1 2019年02月13日 19:28 lovin Exp $
  */
 public class Car {
 

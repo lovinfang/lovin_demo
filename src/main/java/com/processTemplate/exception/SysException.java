@@ -10,8 +10,8 @@ import com.processTemplate.util.ErrorContextUtil;
 
 /**
  * 系统异常
- * @author wb-fyw404615
- * @version $Id: SysException.java, v 0.1 2019年03月22日 14:18 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: SysException.java, v 0.1 2019年03月22日 14:18 lovin Exp $
  */
 public class SysException extends RuntimeException {
 

@@ -13,8 +13,8 @@ import org.slf4j.LoggerFactory;
 
 /**
  * 对整个业务逻辑进行测试
- * @author wb-fyw404615
- * @version $Id: DemoTestController.java, v 0.1 2019年03月22日 15:12 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: DemoTestController.java, v 0.1 2019年03月22日 15:12 lovin Exp $
  */
 public class DemoTestController {
 

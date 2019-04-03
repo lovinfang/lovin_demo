@@ -12,8 +12,8 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author wb-fyw404615
- * @version $Id: ErrorContext.java, v 0.1 2019年03月21日 15:54 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: ErrorContext.java, v 0.1 2019年03月21日 15:54 lovin Exp $
  */
 public class ErrorContext implements Serializable {
 

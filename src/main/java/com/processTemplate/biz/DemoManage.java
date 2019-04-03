@@ -7,8 +7,8 @@ import com.processTemplate.model.Result;
 import com.processTemplate.request.ModelAddRequest;
 
 /**
- * @author wb-fyw404615
- * @version $Id: DemoManage.java, v 0.1 2019年03月22日 14:23 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: DemoManage.java, v 0.1 2019年03月22日 14:23 lovin Exp $
  */
 public interface DemoManage {
 

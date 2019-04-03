@@ -15,9 +15,7 @@ import org.slf4j.Logger;
 
 /**
  * 通用业务处理模板类
- *
- * @author wb-fyw404615
- * @version $Id: ProcessTemplate.java, v 0.1 2019年03月21日 15:25 wb-fyw404615 Exp $
+ * @version $Id: ProcessTemplate.java, v 0.1 2019年03月21日 15:25 lovin Exp $
  */
 public final class ProcessTemplate {
 

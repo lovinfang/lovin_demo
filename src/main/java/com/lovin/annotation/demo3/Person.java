@@ -4,9 +4,7 @@
 package com.lovin.annotation.demo3;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: Person.java, v 0.1 2019年02月14日 11:31 wb-fyw404615 Exp $
+ * @version $Id: Person.java, v 0.1 2019年02月14日 11:31 lovin Exp $
  */
 public interface Person {
 

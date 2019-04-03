@@ -14,8 +14,8 @@ import java.util.Map;
 /**
  * JSON Utils 工具类
  *
- * @author wb-fyw404615
- * @version $Id: FastjsonUtil.java, v 0.1 2019年03月25日 16:56 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: FastjsonUtil.java, v 0.1 2019年03月25日 16:56 lovin Exp $
  */
 public class FastjsonUtil {
 

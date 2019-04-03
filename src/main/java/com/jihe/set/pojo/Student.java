@@ -4,9 +4,7 @@
 package com.jihe.set.pojo;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: Student.java, v 0.1 2019年04月02日 17:10 wb-fyw404615 Exp $
+ * @version $Id: Student.java, v 0.1 2019年04月02日 17:10 lovin Exp $
  */
 //public class Student implements Comparable<Student>{
 

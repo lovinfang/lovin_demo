@@ -4,9 +4,7 @@
 package com.lovin.java8.InterfaceDefault;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: Defaulable.java, v 0.1 2019年02月13日 19:13 wb-fyw404615 Exp $
+ * @version $Id: Defaulable.java, v 0.1 2019年02月13日 19:13 lovin Exp $
  */
 public interface Defaulable {
 

@@ -20,8 +20,8 @@ import java.util.Set;
 /**
  * 通用的参数校验器，包装异常信息，统一返回{@link BsnException}异常
  *
- * @author wb-fyw404615
- * @version $Id: ParametorValidator.java, v 0.1 2019年03月22日 14:49 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: ParametorValidator.java, v 0.1 2019年03月22日 14:49 lovin Exp $
  */
 public class ParametorValidator {
 

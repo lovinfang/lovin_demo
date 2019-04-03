@@ -16,8 +16,8 @@ import java.util.stream.Collectors;
 
 /**
  *
- * @author wb-fyw404615
- * @version $Id: ParamQueryComponentImpl.java, v 0.1 2019年03月27日 11:03 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: ParamQueryComponentImpl.java, v 0.1 2019年03月27日 11:03 lovin Exp $
  */
 public class ParamQueryComponentImpl implements ParamQueryComponent {
 

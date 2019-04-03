@@ -8,9 +8,7 @@ import java.time.LocalDate;
 import java.time.LocalTime;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: Demo.java, v 0.1 2019年02月15日 17:31 wb-fyw404615 Exp $
+ * @version $Id: Demo.java, v 0.1 2019年02月15日 17:31 lovin Exp $
  */
 public class Demo {
 

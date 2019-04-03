@@ -9,9 +9,7 @@ import com.jihe.set.pojo.Student;
 import java.util.TreeSet;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: TreeSetDemo.java, v 0.1 2019年04月02日 17:07 wb-fyw404615 Exp $
+ * @version $Id: TreeSetDemo.java, v 0.1 2019年04月02日 17:07 lovin Exp $
  */
 public class TreeSetDemo {
 

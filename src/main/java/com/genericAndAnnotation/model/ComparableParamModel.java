@@ -7,8 +7,8 @@ import com.genericAndAnnotation.annotation.ParamCondition;
 
 /**
  *
- * @author wb-fyw404615
- * @version $Id: ComparableParamModel.java, v 0.1 2019年03月27日 16:22 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: ComparableParamModel.java, v 0.1 2019年03月27日 16:22 lovin Exp $
  */
 public class ComparableParamModel extends ParamModel implements Comparable<ComparableParamModel> {
 

@@ -9,9 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: ReduceDemo.java, v 0.1 2019年02月19日 14:16 wb-fyw404615 Exp $
+ * @version $Id: ReduceDemo.java, v 0.1 2019年02月19日 14:16 lovin Exp $
  */
 public class ReduceDemo {
 

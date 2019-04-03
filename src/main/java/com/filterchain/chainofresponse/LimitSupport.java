@@ -6,8 +6,8 @@ package com.filterchain.chainofresponse;
 /**
  * 解决指定范围内的问题
  *
- * @author wb-fyw404615
- * @version $Id: LimitSupport.java, v 0.1 2019年03月25日 10:38 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: LimitSupport.java, v 0.1 2019年03月25日 10:38 lovin Exp $
  */
 public class LimitSupport extends Support {
 

@@ -7,9 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: GenericArray.java, v 0.1 2019年03月19日 15:37 wb-fyw404615 Exp $
+ * @version $Id: GenericArray.java, v 0.1 2019年03月19日 15:37 lovin Exp $
  */
 public class GenericArray {
 

@@ -5,8 +5,8 @@ package com.filterchain.chainofresponse;
 
 /**
  *
- * @author wb-fyw404615
- * @version $Id: OddSupport.java, v 0.1 2019年03月25日 10:41 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: OddSupport.java, v 0.1 2019年03月25日 10:41 lovin Exp $
  */
 public class OddSupport extends Support{
 

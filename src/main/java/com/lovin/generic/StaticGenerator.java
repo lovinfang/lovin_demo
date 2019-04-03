@@ -4,9 +4,7 @@
 package com.lovin.generic;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: StaticGenerator.java, v 0.1 2019年03月19日 15:15 wb-fyw404615 Exp $
+ * @version $Id: StaticGenerator.java, v 0.1 2019年03月19日 15:15 lovin Exp $
  */
 public class StaticGenerator {
 

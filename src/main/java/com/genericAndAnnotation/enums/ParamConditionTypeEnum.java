@@ -6,9 +6,7 @@ package com.genericAndAnnotation.enums;
 import org.apache.commons.lang3.StringUtils;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: ParamConditionTypeEnum.java, v 0.1 2019年03月27日 11:19 wb-fyw404615 Exp $
+ * @version $Id: ParamConditionTypeEnum.java, v 0.1 2019年03月27日 11:19 lovin Exp $
  */
 public enum ParamConditionTypeEnum {
 

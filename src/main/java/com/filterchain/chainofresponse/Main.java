@@ -9,8 +9,8 @@ package com.filterchain.chainofresponse;
  *  好处：不用考虑其他处理者的实现，基于上帝视角，不管你们是哪个处理的，我只要处理好
  *  坏处：有延迟，要寻找是哪个处理者进行处理，所以低延迟的处理请求不要使用责任链模式
  *
- * @author wb-fyw404615
- * @version $Id: Main.java, v 0.1 2019年03月25日 10:44 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: Main.java, v 0.1 2019年03月25日 10:44 lovin Exp $
  */
 public class Main {
 

@@ -7,8 +7,7 @@ import java.util.Arrays;
 
 /**
  *
- * @author wb-fyw404615
- * @version $Id: LambdaDemo.java, v 0.1 2019年02月02日 11:02 wb-fyw404615 Exp $
+ * @version $Id: LambdaDemo.java, v 0.1 2019年02月02日 11:02 lovin Exp $
  */
 public class LambdaDemo {
 

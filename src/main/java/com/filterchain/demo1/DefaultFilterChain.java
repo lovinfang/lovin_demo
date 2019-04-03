@@ -10,8 +10,8 @@ import java.util.List;
 /**
  * 责任链实现
  *
- * @author wb-fyw404615
- * @version $Id: DefaultFilterChain.java, v 0.1 2019年03月25日 11:17 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: DefaultFilterChain.java, v 0.1 2019年03月25日 11:17 lovin Exp $
  */
 public class DefaultFilterChain implements FilterChain {
 

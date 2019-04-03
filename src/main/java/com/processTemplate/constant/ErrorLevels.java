@@ -5,8 +5,8 @@ package com.processTemplate.constant;
 
 /**
  *
- * @author wb-fyw404615
- * @version $Id: ErrorLevels.java, v 0.1 2019年03月22日 9:56 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: ErrorLevels.java, v 0.1 2019年03月22日 9:56 lovin Exp $
  */
 public interface ErrorLevels {
 

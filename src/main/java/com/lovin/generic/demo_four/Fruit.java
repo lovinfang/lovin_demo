@@ -5,8 +5,8 @@ package com.lovin.generic.demo_four;
 
 /**
  *
- * @author wb-fyw404615
- * @version $Id: Fruit.java, v 0.1 2019年03月19日 14:43 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: Fruit.java, v 0.1 2019年03月19日 14:43 lovin Exp $
  */
 public class Fruit {
     @Override

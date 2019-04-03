@@ -7,8 +7,8 @@ import org.apache.commons.lang3.StringUtils;
 
 /**
  *
- * @author wb-fyw404615
- * @version $Id: EventCodeEnum.java, v 0.1 2019年03月22日 9:52 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: EventCodeEnum.java, v 0.1 2019年03月22日 9:52 lovin Exp $
  */
 public enum EventCodeEnum {
 

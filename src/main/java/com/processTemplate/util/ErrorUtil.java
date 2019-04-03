@@ -10,8 +10,8 @@ import org.apache.log4j.Logger;
  * 标准错误码工具类。
  *
  * <p>使用标准错误码时，必须配置ErrorUtil的bean。否则获取不到错误位置信息。
- * @author wb-fyw404615
- * @version $Id: ErrorUtil.java, v 0.1 2019年03月22日 11:23 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: ErrorUtil.java, v 0.1 2019年03月22日 11:23 lovin Exp $
  */
 public class ErrorUtil {
     /** 普通日志 */

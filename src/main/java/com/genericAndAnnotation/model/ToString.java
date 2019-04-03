@@ -10,8 +10,8 @@ import java.io.Serializable;
 
 /**
  * 参数序列化支持抽象基类
- * @author wb-fyw404615
- * @version $Id: ToString.java, v 0.1 2019年03月27日 12:33 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: ToString.java, v 0.1 2019年03月27日 12:33 lovin Exp $
  */
 public class ToString implements Serializable, Cloneable{
 

@@ -9,8 +9,8 @@ import com.genericAndAnnotation.model.QrCodeConfigParamRequest;
 
 /**
  *
- * @author wb-fyw404615
- * @version $Id: Demo.java, v 0.1 2019年03月27日 16:43 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: Demo.java, v 0.1 2019年03月27日 16:43 lovin Exp $
  */
 public class Demo {
 

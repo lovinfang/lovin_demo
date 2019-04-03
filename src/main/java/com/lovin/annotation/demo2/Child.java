@@ -4,9 +4,8 @@
 package com.lovin.annotation.demo2;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: Child.java, v 0.1 2019年02月14日 11:06 wb-fyw404615 Exp $
+
+ * @version $Id: Child.java, v 0.1 2019年02月14日 11:06 lovin Exp $
  */
 public class Child implements Person {
 

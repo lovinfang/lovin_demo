@@ -5,8 +5,8 @@ package com.lovin.generic.demo_two;
 
 /**
  *
- * @author wb-fyw404615
- * @version $Id: GenericTest.java, v 0.1 2019年03月15日 14:13 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: GenericTest.java, v 0.1 2019年03月15日 14:13 lovin Exp $
  */
 public class GenericTest {
 

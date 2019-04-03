@@ -8,9 +8,7 @@ import com.jihe.set.pojo.Student;
 import java.util.Comparator;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: MyComparator.java, v 0.1 2019年04月02日 17:49 wb-fyw404615 Exp $
+ * @version $Id: MyComparator.java, v 0.1 2019年04月02日 17:49 lovin Exp $
  */
 public class MyComparator implements Comparator<Student> {
     @Override

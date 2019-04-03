@@ -6,9 +6,7 @@ package com.lovin.concurrent.threadLocal;
 /**
  *
  *  参考 https://www.cnblogs.com/dolphin0520/p/3920407.html
- *
- * @author wb-fyw404615
- * @version $Id: ThreadLocalDemo3.java, v 0.1 2019年03月20日 18:21 wb-fyw404615 Exp $
+ * @version $Id: ThreadLocalDemo3.java, v 0.1 2019年03月20日 18:21 lovin Exp $
  */
 public class ThreadLocalDemo3 {
     ThreadLocal<Long> longLocal = new ThreadLocal<Long>(){

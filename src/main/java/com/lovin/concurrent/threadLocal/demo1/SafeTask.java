@@ -7,9 +7,7 @@ import java.util.Date;
 import java.util.concurrent.TimeUnit;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: SafeTask.java, v 0.1 2019年03月20日 18:56 wb-fyw404615 Exp $
+ * @version $Id: SafeTask.java, v 0.1 2019年03月20日 18:56 lovin Exp $
  */
 public class SafeTask implements Runnable{
 

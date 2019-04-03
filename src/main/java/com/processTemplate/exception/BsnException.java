@@ -10,8 +10,8 @@ import com.processTemplate.util.ErrorContext;
 /**
  * 业务处理异常，抛出此异常都不可重试，如果需要告知上游可重试，请用{@link SysException}异常
  *
- * @author wb-fyw404615
- * @version $Id: BsnException.java, v 0.1 2019年03月22日 14:19 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: BsnException.java, v 0.1 2019年03月22日 14:19 lovin Exp $
  */
 public class BsnException extends SysException{
 

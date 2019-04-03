@@ -10,8 +10,8 @@ import javax.validation.constraints.Pattern;
 
 /**
  *
- * @author wb-fyw404615
- * @version $Id: ModelAddRequest.java, v 0.1 2019年03月22日 14:46 wb-fyw404615 Exp $
+ * @author lovin
+ * @version $Id: ModelAddRequest.java, v 0.1 2019年03月22日 14:46 lovin Exp $
  */
 public class ModelAddRequest {
 

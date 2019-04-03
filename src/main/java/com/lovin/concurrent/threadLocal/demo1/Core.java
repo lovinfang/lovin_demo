@@ -6,9 +6,7 @@ package com.lovin.concurrent.threadLocal.demo1;
 import java.util.concurrent.TimeUnit;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: Core.java, v 0.1 2019年03月20日 18:42 wb-fyw404615 Exp $
+ * @version $Id: Core.java, v 0.1 2019年03月20日 18:42 lovin Exp $
  */
 public class Core {
 
