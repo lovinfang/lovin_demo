@@ -9,6 +9,7 @@ import com.alibaba.fastjson.TypeReference;
 import com.alibaba.fastjson.serializer.SerializerFeature;
 import org.apache.commons.lang3.StringUtils;
 
+import java.util.List;
 import java.util.Map;
 
 /**
@@ -90,5 +91,17 @@ public class FastjsonUtil {
     public static boolean isJsonMap(String jsonStr) {
         return (StringUtils.isNotBlank(jsonStr) && jsonStr.length() >= 2 && jsonStr.startsWith("{") && jsonStr
                 .endsWith("}"));
+    }
+
+    /**
+     * 将一个json数组转换成对应的Object 集合
+     * @param str
+     * @param clazz
+     * @param <T>
+     * @return
+     */
+    public static <T> List<T> strToListJsonObject(String str, Class<T> clazz){
+        List<T> jsonArray = JSON.parseArray(str,clazz);
+        return jsonArray;
     }
 }
