@@ -101,7 +101,7 @@ public class MapDemo {
 
         //第三步，将排序后的list赋值给LinkedHashMap
         Map<Integer , String> map = new LinkedHashMap();
-        for(Map.Entry<Integer , String> entry : linkedList){
+            for(Map.Entry<Integer , String> entry : linkedList){
             map.put(entry.getKey(), entry.getValue());
         }
         for(Map.Entry<Integer , String> entry : map.entrySet()){

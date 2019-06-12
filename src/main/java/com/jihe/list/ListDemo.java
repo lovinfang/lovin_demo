@@ -3,6 +3,8 @@
  */
 package com.jihe.list;
 
+import com.google.common.collect.Lists;
+
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
@@ -35,5 +37,9 @@ public class ListDemo {
         for (String s : list){
             System.out.println(s);
         }
+
+        List<String> list2 = Lists.newArrayListWithCapacity(4);
+        System.out.println(list2.size()); // 0
+
     }
 }
