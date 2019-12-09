@@ -13,7 +13,6 @@ import java.util.List;
 
 /**
  * @version $Id: Test.java, v 0.1 2019年02月27日 20:02 lovin Exp $
- * @version $Id: Test.java, v 0.1 2019年02月27日 20:02 lovin Exp $
  */
 public class Test {
 
