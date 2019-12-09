@@ -4,9 +4,7 @@
 package com.lovin.annotation.demo1;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: PasswordUtils.java, v 0.1 2019年02月14日 10:40 wb-fyw404615 Exp $
+ * @version $Id: PasswordUtils.java, v 0.1 2019年02月14日 10:40 lovin Exp $
  */
 public class PasswordUtils {
 

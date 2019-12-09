@@ -4,9 +4,7 @@
 package com.lovin.java8.InterfaceDefault;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: OverridableImpl.java, v 0.1 2019年02月13日 19:14 wb-fyw404615 Exp $
+ * @version $Id: OverridableImpl.java, v 0.1 2019年02月13日 19:14 lovin Exp $
  */
 public class OverridableImpl implements Defaulable {
 

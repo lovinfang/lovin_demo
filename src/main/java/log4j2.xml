@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+    <Appenders>
+        <Console name="STDOUT-APPENDER" target="SYSTEM_OUT">
+            <PatternLayout pattern="%-5p %c{2} - %m%n%throwable" charset="UTF-8"/>
+        </Console>
+        <Console name="STDERR-APPENDER" target="SYSTEM_ERR">
+            <PatternLayout pattern="%-5p %c{2} - %m%n%throwable" charset="UTF-8"/>
+        </Console>
+        <RollingFile name="ERROR-APPENDER" fileName="${ctx:log_root}/${ctx:app_name}/common-error.log"
+                     filePattern="${ctx:log_root}/${ctx:app_name}/common-error.log.%d{yyyy-MM-dd}"
+                     append="true">
+            <PatternLayout
+                    pattern="%d [%X{traceId} %X{rpcId} - %X{loginUserEmail}/%X{loginUserID}/%X{remoteAddr}/%X{clientId} - %X{requestURIWithQueryString}] %-5p %c{2} - %m%n%throwable"
+                    charset="UTF-8"/>
+            <TimeBasedTriggeringPolicy/>
+            <DefaultRolloverStrategy/>
+            <ThresholdFilter level="ERROR"/>
+        </RollingFile>
+        <RollingFile name="APP-DEFAULT-APPENDER" fileName="${ctx:log_root}/${ctx:app_name}/app-default.log"
+                     filePattern="${ctx:log_root}/${ctx:app_name}/app-default.log.%d{yyyy-MM-dd}"
+                     append="true">
+            <PatternLayout
+                    pattern="%d [%X{traceId} %X{rpcId} - %X{loginUserEmail}/%X{loginUserID}/%X{remoteAddr}/%X{clientId} - %X{requestURIWithQueryString}] %-5p %c{2} - %m%n%throwable"
+                    charset="UTF-8"/>
+            <TimeBasedTriggeringPolicy/>
+            <DefaultRolloverStrategy/>
+        </RollingFile>
+        <RollingFile name="SOFA-DEFAULT-APPENDER" fileName="${ctx:log_root}/${ctx:app_name}/sofa-default.log"
+                     filePattern="${ctx:log_root}/${ctx:app_name}/sofa-default.log.%d{yyyy-MM-dd}"
+                     append="true">
+            <PatternLayout
+                    pattern="%d [%X{traceId} %X{rpcId} - %X{loginUserEmail}/%X{loginUserID}/%X{remoteAddr}/%X{clientId} - %X{requestURIWithQueryString}] %-5p %c{2} - %m%n%throwable"
+                    charset="UTF-8"/>
+            <TimeBasedTriggeringPolicy/>
+            <DefaultRolloverStrategy/>
+        </RollingFile>
+        <!--RPC SERVICE日志-->
+        <RollingFile name="RPC-SERVICE-DETAIL-APPENDER" fileName="${ctx:log_root}/${ctx:app_name}/service/rpc-service-detail.log"
+                     filePattern="${ctx:log_root}/${ctx:app_name}/service/rpc-service-detail.log.%d{yyyy-MM-dd}"
+                     append="true">
+            <PatternLayout pattern="%d %X{rpcId} %-5p %c{2} - %m%n%throwable" charset="UTF-8"/>
+            <TimeBasedTriggeringPolicy/>
+            <DefaultRolloverStrategy/>
+        </RollingFile>
+        <RollingFile name="RPC-SERVICE-DIGEST-APPENDER" fileName="${ctx:log_root}/${ctx:app_name}/service/rpc-service-digest.log"
+                     filePattern="${ctx:log_root}/${ctx:app_name}/service/rpc-service-digest.log.%d{yyyy-MM-dd}"
+                     append="true">
+            <PatternLayout pattern="%d %X{rpcId} %-5p %c{2} - %m%n%throwable" charset="UTF-8"/>
+            <TimeBasedTriggeringPolicy/>
+            <DefaultRolloverStrategy/>
+        </RollingFile>
+        <!--RPC CLIENT日志-->
+        <RollingFile name="RPC-CLIENT-DETAIL-APPENDER" fileName="${ctx:log_root}/${ctx:app_name}/client/rpc-client-detail.log"
+                     filePattern="${ctx:log_root}/${ctx:app_name}/client/rpc-client-detail.log.%d{yyyy-MM-dd}"
+                     append="true">
+            <PatternLayout pattern="%d %X{rpcId} %-5p %c{2} - %m%n%throwable" charset="UTF-8"/>
+            <TimeBasedTriggeringPolicy/>
+            <DefaultRolloverStrategy/>
+        </RollingFile>
+		<!-- 业务监控日志 -->
+		<RollingFile name="BUSINESS-MONITOR-APPENDER" fileName="${ctx:log_root}/${ctx:app_name}/monitor/business-monitor.log"
+                     filePattern="${ctx:log_root}/${ctx:app_name}/monitor/business-monitor.log.%d{yyyy-MM-dd}"
+                     append="true">
+            <PatternLayout pattern="%d %X{rpcId} %-5p %c{2} - %m%n%throwable" charset="UTF-8"/>
+            <TimeBasedTriggeringPolicy/>
+            <DefaultRolloverStrategy/>
+        </RollingFile>
+    </Appenders>
+    <Loggers>
+        <AsyncLogger name="STDOUT" additivity="false" level="info">
+            <AppenderRef ref="STDOUT-APPENDER"/>
+        </AsyncLogger>
+        <AsyncLogger name="STDERR" additivity="false" level="${ctx:log_level}">
+            <AppenderRef ref="STDERR-APPENDER"/>
+        </AsyncLogger>
+        <AsyncLogger name="com" additivity="false" level="${ctx:log_level}">
+            <AppenderRef ref="SOFA-DEFAULT-APPENDER"/>
+            <AppenderRef ref="ERROR-APPENDER"/>
+        </AsyncLogger>
+        <AsyncLogger name="com" additivity="false" level="${ctx:log_level}">
+            <AppenderRef ref="APP-DEFAULT-APPENDER"/>
+            <AppenderRef ref="ERROR-APPENDER"/>
+        </AsyncLogger>
+        <AsyncRoot level="${ctx:log_level}">
+            <AppenderRef ref="APP-DEFAULT-APPENDER"/>
+            <AppenderRef ref="ERROR-APPENDER"/>
+        </AsyncRoot>
+
+        <!--RPC SERVER日志-->
+        <AsyncLogger name="RPC-SERVICE-DETAIL" additivity="false" level="${ctx:log_level}">
+            <AppenderRef ref="RPC-SERVICE-DETAIL-APPENDER"/>
+            <AppenderRef ref="ERROR-APPENDER"/>
+        </AsyncLogger>
+        <AsyncLogger name="RPC-SERVICE-DIGEST" additivity="false" level="${ctx:log_level}">
+            <AppenderRef ref="RPC-SERVICE-DIGEST-APPENDER"/>
+            <AppenderRef ref="ERROR-APPENDER"/>
+        </AsyncLogger>
+
+        <!--RPC CLIENT日志-->
+        <AsyncLogger name="RPC-CLIENT-DETAIL" additivity="false" level="${ctx:log_level}">
+            <AppenderRef ref="RPC-CLIENT-DETAIL-APPENDER"/>
+            <AppenderRef ref="ERROR-APPENDER"/>
+        </AsyncLogger>
+        
+        <!--业务监控日志-->
+        <AsyncLogger name="BUSINESS-MONITOR" additivity="false" level="${ctx:log_level}">
+            <AppenderRef ref="BUSINESS-MONITOR-APPENDER"/>
+            <AppenderRef ref="ERROR-APPENDER"/>
+        </AsyncLogger>
+
+    </Loggers>
+</Configuration>

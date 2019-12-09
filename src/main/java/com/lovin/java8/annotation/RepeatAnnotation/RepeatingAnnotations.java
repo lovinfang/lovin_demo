@@ -6,9 +6,7 @@ package com.lovin.java8.annotation.RepeatAnnotation;
 import java.lang.annotation.*;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: RepeatingAnnotations.java, v 0.1 2019年02月14日 9:55 wb-fyw404615 Exp $
+ * @version $Id: RepeatingAnnotations.java, v 0.1 2019年02月14日 9:55 lovin Exp $
  */
 public class RepeatingAnnotations {
 

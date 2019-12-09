@@ -13,9 +13,7 @@ import java.util.function.Function;
 import java.util.function.Predicate;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: DistinctByProperty.java, v 0.1 2019年02月19日 11:02 wb-fyw404615 Exp $
+ * @version $Id: DistinctByProperty.java, v 0.1 2019年02月19日 11:02 lovin Exp $
  */
 public class DistinctByProperty {
 

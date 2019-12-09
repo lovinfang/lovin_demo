@@ -12,9 +12,7 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: StreamDemo.java, v 0.1 2019年02月18日 16:50 wb-fyw404615 Exp $
+ * @version $Id: StreamDemo.java, v 0.1 2019年02月18日 16:50 lovin Exp $
  */
 public class StreamDemo {
 
@@ -57,6 +55,14 @@ public class StreamDemo {
                                           new Person("fang",true),
                                           new Person("ya",false),
                                           new Person("wen",true));
+
+        boolean has = list.stream().anyMatch(person -> person.getName().equals("ya"));
+        if(has){
+            System.out.println("list has person names ya");
+        }
+
+
+
         //筛选
         List<Person> stream = list.stream().filter(Person::isStudent).collect(Collectors.toList());
         System.out.println(stream);

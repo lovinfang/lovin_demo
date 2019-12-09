@@ -10,9 +10,7 @@ import java.util.List;
 import java.util.Optional;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: OptionDemo.java, v 0.1 2019年02月19日 11:32 wb-fyw404615 Exp $
+ * @version $Id: OptionDemo.java, v 0.1 2019年02月19日 11:32 lovin Exp $
  */
 public class OptionDemo {
 

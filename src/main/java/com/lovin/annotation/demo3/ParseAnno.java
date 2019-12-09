@@ -9,9 +9,7 @@ import java.lang.annotation.Annotation;
 import java.lang.reflect.Method;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: ParseAnno.java, v 0.1 2019年02月14日 18:30 wb-fyw404615 Exp $
+ * @version $Id: ParseAnno.java, v 0.1 2019年02月14日 18:30 lovin Exp $
  */
 public class ParseAnno {
 

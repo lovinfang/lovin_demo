@@ -6,9 +6,7 @@ package com.lovin.annotation.demo3;
 import java.lang.annotation.*;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: Description.java, v 0.1 2019年02月14日 11:17 wb-fyw404615 Exp $
+ * @version $Id: Description.java, v 0.1 2019年02月14日 11:17 lovin Exp $
  */
 
 /**

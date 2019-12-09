@@ -9,9 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: DistinctWithUserObjects.java, v 0.1 2019年02月19日 10:56 wb-fyw404615 Exp $
+ * @version $Id: DistinctWithUserObjects.java, v 0.1 2019年02月19日 10:56 lovin Exp $
  */
 public class DistinctWithUserObjects {
 

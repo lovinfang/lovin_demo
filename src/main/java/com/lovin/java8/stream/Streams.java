@@ -7,9 +7,7 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 /**
- *
- * @author wb-fyw404615
- * @version $Id: Streams.java, v 0.1 2019年02月15日 10:14 wb-fyw404615 Exp $
+ * @version $Id: Streams.java, v 0.1 2019年02月15日 10:14 lovin Exp $
  */
 public class Streams {
 
