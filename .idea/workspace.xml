@@ -2,25 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60086404-21d9-4ce4-be03-9525029f76f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stringDemo/HashCodeAndEquals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stringDemo/StringTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jihe/list/ArraycopyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jihe/list/ArraysCopyOfTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jihe/list/EnsureCapacityTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/genericAndAnnotation/component/ParamQueryComponentImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/genericAndAnnotation/component/ParamQueryComponentImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/annotation/demo1/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/annotation/demo1/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/lambda/LambdaDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/lambda/LambdaDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/option/OptionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/option/OptionDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/ReadFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/ReadFile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/StreamDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/StreamDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/Streams.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/Streams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/distinct/DistinctByProperty.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/distinct/DistinctByProperty.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/distinct/DistinctWithUserObjects.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/distinct/DistinctWithUserObjects.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/group/GroupDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/group/GroupDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/option/OptionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/option/OptionDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/processTemplate/util/ErrorContextUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/processTemplate/util/ErrorContextUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/processTemplate/util/ResultUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/processTemplate/util/ResultUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/util/FastjsonUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/util/FastjsonUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stringDemo/HashCodeAndEquals.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/stringDemo/HashCodeAndEquals.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +43,46 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HashCodeAndEquals">
+  <component name="RunManager" selected="Application.EnsureCapacityTest">
+    <configuration name="ArraycopyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jihe.list.ArraycopyTest" />
+      <module name="lovin_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jihe.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraysCopyOfTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jihe.list.ArraysCopyOfTest" />
+      <module name="lovin_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jihe.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnsureCapacityTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jihe.list.EnsureCapacityTest" />
+      <module name="lovin_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jihe.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HashCodeAndEquals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.stringDemo.HashCodeAndEquals" />
       <module name="lovin_demo" />
@@ -71,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.stringDemo.StringTest" />
+    <configuration name="ListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jihe.list.ListDemo" />
       <module name="lovin_demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.stringDemo.*" />
+          <option name="PATTERN" value="com.jihe.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,8 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EnsureCapacityTest" />
+        <item itemvalue="Application.ArraysCopyOfTest" />
+        <item itemvalue="Application.ArraycopyTest" />
+        <item itemvalue="Application.ListDemo" />
         <item itemvalue="Application.HashCodeAndEquals" />
-        <item itemvalue="Application.StringTest" />
       </list>
     </recent_temporary>
   </component>
@@ -102,7 +130,7 @@
       <option name="presentableId" value="Default" />
       <updated>1575866410803</updated>
       <workItem from="1575866413657" duration="4108000" />
-      <workItem from="1576330661151" duration="169000" />
+      <workItem from="1576330661151" duration="2315000" />
     </task>
     <servers />
   </component>
@@ -121,5 +149,13 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="elementData.length" />
+        <watch expression="elementData" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
