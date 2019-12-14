@@ -2,106 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60086404-21d9-4ce4-be03-9525029f76f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/concurrent/synchronizedDemo/SynchronizedDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jihe/list/ListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jihe/map/MapsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lovin/annotation/demo5/Jiecha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lovin/annotation/demo5/NoBug.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lovin/annotation/demo5/TestTool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lovin/annotation/注解.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/time/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/time/util/CalendarUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/time/util/DateUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/Test$Task.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/concurrent/synchronizedDemo/SynchronizedDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/jihe/list/ListDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/jihe/map/MapDemo$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/jihe/map/MapDemo$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/jihe/map/MapsTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/jihe/set/SetDemo$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/lovin/annotation/demo5/Jiecha.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/lovin/annotation/demo5/NoBug.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/lovin/annotation/demo5/TestTool.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/time/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/time/util/CalendarUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/time/util/DateUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stringDemo/HashCodeAndEquals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stringDemo/StringTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jihe/map/MapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jihe/map/MapDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jihe/set/SetDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jihe/set/SetDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jihe/备注" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jihe/备注" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lovin/annotation/demo1/UseCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lovin/annotation/demo1/UseCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lovin/java8/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lovin/java8/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/util/FastjsonUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/util/FastjsonUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/controller/IndexController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/controller/IndexController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/genericAndAnnotation/component/ParamQueryComponentImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/genericAndAnnotation/component/ParamQueryComponentImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/genericAndAnnotation/enums/ParamConditionTypeEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/genericAndAnnotation/enums/ParamConditionTypeEnum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jihe/map/MapDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jihe/map/MapDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jihe/set/MyClassTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jihe/set/MyClassTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jihe/set/SetDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jihe/set/SetDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jihe/set/TreeSetDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jihe/set/TreeSetDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jihe/set/comparator/MyComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jihe/set/comparator/MyComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jihe/set/pojo/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jihe/set/pojo/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/jihe/set/pojo/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jihe/set/pojo/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/annotation/demo1/PasswordUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/annotation/demo1/PasswordUtils.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/annotation/demo1/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/annotation/demo1/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/annotation/demo2/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/annotation/demo2/Child.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/annotation/demo2/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/annotation/demo2/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/annotation/demo3/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/annotation/demo3/Child.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/annotation/demo3/ParseAnno.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/annotation/demo3/ParseAnno.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/annotation/demo4/Filter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/annotation/demo4/Filter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/annotation/demo4/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/annotation/demo4/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/concurrent/threadLocal/ThreadLocalDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/concurrent/threadLocal/ThreadLocalDemo$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/concurrent/threadLocal/ThreadLocalDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/concurrent/threadLocal/ThreadLocalDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/concurrent/threadLocal/ThreadLocalDemo2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/concurrent/threadLocal/ThreadLocalDemo2$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/concurrent/threadLocal/ThreadLocalDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/concurrent/threadLocal/ThreadLocalDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/concurrent/threadLocal/ThreadLocalDemo3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/concurrent/threadLocal/ThreadLocalDemo3$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/concurrent/threadLocal/ThreadLocalDemo3$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/concurrent/threadLocal/ThreadLocalDemo3$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/concurrent/threadLocal/ThreadLocalDemo3$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/concurrent/threadLocal/ThreadLocalDemo3$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/concurrent/threadLocal/ThreadLocalDemo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/concurrent/threadLocal/ThreadLocalDemo3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/concurrent/threadLocal/demo1/Core.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/concurrent/threadLocal/demo1/Core.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/concurrent/threadLocal/demo1/SafeTask$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/concurrent/threadLocal/demo1/SafeTask$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/concurrent/threadLocal/demo1/SafeTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/concurrent/threadLocal/demo1/SafeTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/concurrent/threadLocal/demo1/UnsafeTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/concurrent/threadLocal/demo1/UnsafeTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/concurrent/threadLocal/demo2/ThreadLocal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/concurrent/threadLocal/demo2/ThreadLocal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/generic/GenericArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/generic/GenericArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/generic/StaticGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/generic/StaticGenerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/generic/demo_five/Generic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/generic/demo_five/Generic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/generic/demo_four/GenerateTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/generic/demo_four/GenerateTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/InterfaceDefault/Defaulable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/InterfaceDefault/Defaulable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/InterfaceDefault/DefaulableFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/InterfaceDefault/DefaulableFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/InterfaceDefault/DefaultableImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/InterfaceDefault/DefaultableImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/InterfaceDefault/OverridableImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/InterfaceDefault/OverridableImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/InterfaceDefault/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/InterfaceDefault/Test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/annotation/RepeatAnnotation/RepeatingAnnotations.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/annotation/RepeatAnnotation/RepeatingAnnotations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/annotation/demo/Annotations$Holder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/annotation/demo/Annotations$Holder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/annotation/demo/Annotations.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/annotation/demo/Annotations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/inference/TypeInference.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/inference/TypeInference.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/inference/Value.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/inference/Value.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/lambda/LambdaDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/lambda/LambdaDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/methoduse/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/methoduse/Car.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/option/OptionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/option/OptionDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/Person.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/ReadFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/ReadFile.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/StreamDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/StreamDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/Streams$Status.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/Streams$Status.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/Streams$Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/Streams$Task.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/Streams.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/Streams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/collector/CollectDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/collector/CollectDemo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/distinct/DistinctByProperty.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/distinct/DistinctByProperty.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/distinct/DistinctSimpleDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/distinct/DistinctSimpleDemo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/distinct/DistinctWithUserObjects.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/distinct/DistinctWithUserObjects.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/group/GroupDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/group/GroupDemo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/option/OptionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/option/OptionDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/reduce/DataStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/reduce/DataStream.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/reduce/ReduceDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/stream/reduce/ReduceDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/java8/time/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/java8/time/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lovin/json/model/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lovin/json/model/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/processTemplate/template/ProcessTemplate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/processTemplate/template/ProcessTemplate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/processTemplate/util/ErrorContextUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/processTemplate/util/ErrorContextUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/processTemplate/util/ResultUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/processTemplate/util/ResultUtil.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/util/FastjsonUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/util/FastjsonUtil.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -109,6 +27,23 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UyZBGh9rD0hWyuOxjAeV1PwdXx" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -122,6 +57,40 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Application.HashCodeAndEquals">
+    <configuration name="HashCodeAndEquals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stringDemo.HashCodeAndEquals" />
+      <module name="lovin_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stringDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stringDemo.StringTest" />
+      <module name="lovin_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stringDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HashCodeAndEquals" />
+        <item itemvalue="Application.StringTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -132,7 +101,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575866410803</updated>
-      <workItem from="1575866413657" duration="785000" />
+      <workItem from="1575866413657" duration="4108000" />
+      <workItem from="1576330661151" duration="169000" />
     </task>
     <servers />
   </component>
@@ -144,7 +114,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
